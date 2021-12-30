@@ -8,6 +8,8 @@ This is a simple Notes taking app written in JavaScript.
    - JavaScript
 2. Frameworks:
    - NodeJS
-   - Chalk
+   - chalk
    - yargs
    - fs (file system)
+
+## Usage:
