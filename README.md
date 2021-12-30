@@ -4,7 +4,10 @@ This is a simple Notes taking app written in JavaScript.
 
 ## Stack used:
 
-- NodeJS
-- Chalk
-- yargs
-- fs (file system)
+1. Programming Languages:
+   - JavaScript
+2. Frameworks:
+   - NodeJS
+   - Chalk
+   - yargs
+   - fs (file system)
