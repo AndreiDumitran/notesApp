@@ -1,6 +1,6 @@
 # Simple Notes App using NodeJS
 
-This is a simple Notes taking app written in JavaScript.
+This is a simple command line application written in JavaScript.
 
 ## Stack used:
 
@@ -14,9 +14,10 @@ This is a simple Notes taking app written in JavaScript.
 
 ## Usage:
 
-To run the app, run:
+To run the project, clone the repo and run:
 
 ```bash
+npm install
 node app.js
 ```
 
