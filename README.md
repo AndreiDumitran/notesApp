@@ -2,8 +2,6 @@
 
 This is a simple Notes taking app written in JavaScript.
 
----
-
 ## Stack used:
 
 - NodeJS
