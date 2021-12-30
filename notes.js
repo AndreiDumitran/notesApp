@@ -9,7 +9,6 @@ let loadNotes = () => {
     return [];
   }
 };
-
 let saveNotes = (notes) => {
   const dataJSON = JSON.stringify(notes);
   fs.writeFileSync("notes.json", dataJSON);
